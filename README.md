@@ -7,7 +7,7 @@
 
 This project was developed collaboratively by:
 
-- [Yasaman Hemmati](https://github.com/ysmnhmti), [Youssef Chaaby](https://github.com/ychaaby) and [Lamia Boufala ](https://github.com/lamiaboufala).
+- [Yasaman Hemmati](https://github.com/ysmn_hmt) , [Youssef Chaaby](https://github.com/ychaaby) and [Lamia Boufala ](https://github.com/lamiaboufala).
 
 ## Features  
 - **Web Scraping**:  
