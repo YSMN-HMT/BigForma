@@ -3,6 +3,12 @@
 ## Overview  
 **BigForma** is a project designed to tackle the challenges of managing and analyzing big data for an **online platform** aimed at helping users find the most compatible studies and institutions. This platform aggregates and organizes information about courses across **France** and from **Coursera**, enabling users to make informed decisions based on their preferences and needs.  
 
+## Contributors
+
+This project was developed collaboratively by:
+
+- [Yasaman Hemmati], [Youssef Chaaby](https://github.com/ychaaby) and [Lamia Boufala ](https://github.com/lamiaboufala).
+
 ## Features  
 - **Web Scraping**:  
   The project employs the **Selenium** library and **ChromeDriver** to scrape course-related data efficiently. It extracts information such as course names, presenters, platforms, and relevant metadata from various sources.  
