@@ -1,6 +1,4 @@
-# BigForma
-
-# Advanced Database Management for Course Recommendations
+# BigForma: Advanced Database Management for Course Recommendations
 
 ## Overview  
 **BigForma** is a project designed to tackle the challenges of managing and analyzing big data for an **online platform** aimed at helping users find the most compatible studies and institutions. This platform aggregates and organizes information about courses across **France** and from **Coursera**, enabling users to make informed decisions based on their preferences and needs.  
